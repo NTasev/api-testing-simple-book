@@ -1,6 +1,7 @@
 📚 Simple Book API Testing Project
 
-This is a structured Postman testing project for the [Simple Book API](https://simple-books-api.glitch.me). The project demonstrates how to perform functional testing of a RESTful API using Postman collections, variables, and test scripts.
+This is a personal API testing project based on a public API and inspired by a YouTube tutorial.
+All test scenarios, validations, and documentation were built independently.
 
 🔍 Project Overview
 
