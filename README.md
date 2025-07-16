@@ -34,7 +34,7 @@ QA-API-SimpleBook/
 🔐 Authorization
 
 Most requests require a bearer token. The token is stored as a global Postman variable:
-accessToken = 7ab68c0504866ea1215e1860b3499f4bf618254dee212a7f0396f6394153d57d
+{{accessToken}}
 
 markdown
 Copy
