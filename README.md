@@ -19,10 +19,6 @@ QA-API-SimpleBook/
 ├── README.md
 ├── TestDocumentation.pdf
 ├── postman_collection.json
-└── Screenshots/
-├── request-status.png
-├── list-books.png
-└── order-book.png
 
 🛠️ Tools Used
 
